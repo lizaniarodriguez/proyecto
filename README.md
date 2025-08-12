@@ -1,4 +1,4 @@
-echo "# Curso GitHub
+## Curso GitHub
 
 Este proyecto es un curso práctico para aprender a usar Git y GitHub.
 

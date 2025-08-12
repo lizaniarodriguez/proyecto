@@ -1,30 +1,31 @@
-echo "# Markdown
+echo "# Curso GitHub
 
-Este es un proyecto ejemplo para demostrar cómo crear un archivo README.md con formato Markdown.
+Este proyecto es un curso práctico para aprender a usar Git y GitHub.
 
 ## Objetivos
 
-1. Entender la sintaxis básica de Markdown.  
-2. Crear documentación clara y estructurada.  
-3. Mejorar la presentación de proyectos en repositorios.
+1. Aprender a clonar repositorios.  
+2. Crear ramas y hacer commits.  
+3. Enviar cambios con push y hacer pull requests.
 
-## Tecnologías utilizadas
+## Tecnologías usadas
 
-- Visual Studio Code  
-- Git y GitHub  
-- Markdown  
+- Git  
+- GitHub  
+- Markdown
 
-> “La simplicidad es la máxima sofisticación.” – Leonardo da Vinci
+> \"El control de versiones es la clave para un buen desarrollo colaborativo.\"
 
-Para más información visita [GitHub](https://github.com).
+[Visita GitHub](https://github.com)
 
-![Imagen ejemplo](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d)
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 \`\`\`python
-# Ejemplo de bloque de código en Python
-def saludo():
-    print(\"¡Hola, mundo!\")
+# Ejemplo de código Python
+def saludar():
+    print(\"¡Hola GitHub!\")
 
-saludo()
+saludar()
 \`\`\`
 " > README.md
+
